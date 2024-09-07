@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CNN.com",CNN (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="30ARidiculousTV.us",30A Ridiculous TV (720p)
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="247Retro.us",247 Retro TV (432p) [Not 24/7]
